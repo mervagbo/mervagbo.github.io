@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S Statistics, 2019
-* B.S.  Mathematics applied to the management of companies, 2020
 * M.S. Statistical and stochastic modeling, 2022
+* B.S.  Mathematics applied to the management of companies, 2020
+* B.S Statistics, 2019
 
 Work experience
 ======
 * March 2022 - August 2022: Data Analyst Intern
   * Orange France
+  
+* September 2018 - March 2019: Data Analyst Intern
+  * National Institute of Statistics and Economic Analysis (BENIN)
  
 
   
