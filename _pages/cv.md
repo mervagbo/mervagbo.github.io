@@ -11,24 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. Mathematics and Computer Science, University of Bordeaux, 2020
-* M.S. Statistics and Computer Engineering, University of Bordeaux, 2022
+* B.S Statistics, 2019
+* B.S.  Mathematics applied to the management of companies, 2020
+* M.S. Statistical and stochastic modeling, 2022
 
 Work experience
 ======
-* March 2022 - August 2022: Machine Learning Intern Researcher 
-  * Atos/Inria
+* March 2022 - August 2022: Data Analyst Intern
+  * Orange France
  
 
   
 Skills
 ======
-* Probability theory
+* Data analyst
 * Stochastic modeling
-* Deep Learning
+* Machine Learning
 
+Tools
+======
+* R
+* Python
+* Excel
 
   
-Service and leadership
-======
-* In charge of pedagogical affairs for Chadian students in Bordeaux (2020-2021)
