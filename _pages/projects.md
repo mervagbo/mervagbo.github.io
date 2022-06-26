@@ -16,9 +16,7 @@ redirect_from:
 
 ## Covid-data analyze
 
-In this project, we analyze covid-19 data.
-
-The french report can found [here](http://mervagbo.github.io/projets/covid.html)
+In this project, we analyze covid-19 data. The french report can found [here](http://mervagbo.github.io/projets/covid.html)
 
 ## No-SQL
 
@@ -33,12 +31,10 @@ In this project, we analyze the data of public bicycles in the city of Toulouse.
 
 ## Features selection
 
-Features selection methods with R.
+Features selection methods with R.[Report](http://mervagbo.github.io/projets/stats.html)
 
-[Report](http://mervagbo.github.io/projets/stats.html)
+
 
 ## R shiny App
 
-A dynamique website with R shiny.
- 
-The project is [here](https://mervagbo.shinyapps.io/ulule/)
+A dynamique website with R shiny. The project is [here](https://mervagbo.shinyapps.io/ulule/)
