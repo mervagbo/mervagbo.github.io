@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /project/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 # A small preview of my projects
 
 ## Covid-data analyse
