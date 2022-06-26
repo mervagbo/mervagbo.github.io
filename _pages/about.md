@@ -13,24 +13,20 @@ Welcome on my personal page!
 
 Who am I ?
 ---
-I am a Machine Learning Intern Researcher in the joint
-laboratory between AI4Sim ([Github public
-repo](https://github.com/AI4SIM), which is part of Atos R&D
-department, and [AIRSEA](https://team.inria.fr/airsea/en/) (Inria
-research team), where I work on *Variational inference*.
+I am Data Analyst Intern at Orange.
 
 
-Research interests
+Interests topics
 ---
-My research interests are (but not limited to)
-* Uncertainty Quantification
-* Data Assimilation
-* Variational inference
+* Data analyze
+* Data visulaization
+* Machine learning
+* Statistics
 
 
 Relevant links
 ---
-* [Professional Resume](http://ngartiexauce.github.io/files/Exauce_cv.pdf)
+* [Professional Resume](http://mervagbo.github.io/files/Merveille_cv.pdf)
 
 
 
