@@ -14,9 +14,9 @@ redirect_from:
 
 # A small preview of my projects
 
-## Covid-data analyse
+## Covid-data analyze
 
-In this project, we analyse covid-19 data.
+In this project, we analyze covid-19 data.
 
 The french report can found [here](http://mervagbo.github.io/projets/covid.html)
 
