@@ -24,7 +24,7 @@ Work experience
   
 Skills
 ======
-* Data analyst
+* Data analyze
 * Stochastic modeling
 * Machine Learning
 
@@ -33,5 +33,8 @@ Tools
 * R
 * Python
 * Excel
+* PowerBI
+* Tableau
+* Qlik
 
   
