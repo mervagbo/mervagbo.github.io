@@ -13,7 +13,7 @@ Welcome on my personal page!
 
 Who am I ?
 ---
-I am Data Analyst Intern at Orange.
+I am Data Analyst Intern at Orange France, I am working on the analysis of the sales figures in order to identify the profile of the prolific sellers.
 
 
 Interests topics
