@@ -4,28 +4,27 @@
 
 In this project, we analyse covid-19 data.
 
-The french report can found [here]()
+The french report can found [here](http://mervagbo.github.io/projets/covid.html)
 
 ## No-SQL
 
-A No-SQL database project (Neo4j) [Report]().
+A No-SQL database project (Neo4j) [Report](http://mervagbo.github.io/projets/NoSQL.pdf).
 
 ## Licence Thesis 
-My first bachelor thesis in statistics [Here]()
+My first bachelor thesis in statistics [Here](http://mervagbo.github.io/projets/memoire_licence.pdf)
 
 ## Open data project
 
 In this project, we analyze the data of public bicycles in the city of Bordeaux.
-[Report]()
 
-## Feature selection
+## Features selection
 
-Feature selection methods with R
+Features selection methods with R.
 
-[Report]()
+[Report](http://mervagbo.github.io/projets/stats.html)
 
 ## R shiny App
 
-A dynamique website with R shiny
+A dynamique website with R shiny.
  
 The project is [here](https://mervagbo.shinyapps.io/ulule/)
