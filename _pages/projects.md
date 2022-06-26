@@ -27,7 +27,7 @@ My first bachelor thesis in statistics [Here](http://mervagbo.github.io/projets/
 
 ## Open data project
 
-In this project, we analyze the data of public bicycles in the city of Toulouse. [Report](http://mervagbo.github.io/projets/TER.html).
+In this project, we analyze the data of public bicycles in the city of Toulouse.[Report](http://mervagbo.github.io/projets/TER.html).
 
 ## Features selection
 
