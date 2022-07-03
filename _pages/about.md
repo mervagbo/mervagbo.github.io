@@ -18,7 +18,7 @@ I am Data Analyst Intern at Orange France, I am working on the analysis of the s
 
 Interests topics
 ---
-* Data analyze
+* Data analysis
 * Data visualization
 * Machine learning
 * Statistics
